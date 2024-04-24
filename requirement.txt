@@ -1,12 +1,3 @@
-transformers
-accelerate
-bitsandbytes
-peft
-trl
-evaluate
-rouge_score
-scikit-learn
-
 langchain 
 pypdf 
 sentence-transformers 
@@ -24,7 +15,7 @@ tqdm
 faiss-gpu 
 rank_bm25 
 langchainhub 
-lark
+lark 
 streamlit 
 ngrok 
 pyngrok
